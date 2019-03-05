@@ -22,17 +22,17 @@ Don't do those, though. Do something else!
 
 That's right, attention-payers: once you've successfully finished  an app, **make another!**
 
-1.a
-2.b
-3.c
-4.d
-5.e
-6.f
-7.g
-8.h
-9.i
-10.j
-11.k
+1. Hard Charger
+2. Motivated
+3. High Alcohol Tolerance
+4. Patriotic AF
+5. Athletic
+6. Team Player
+7. Chubby
+8. Brain over Brawn
+9. Lacks Enthusiasm
+10. Lazy
+11. Pampered
 
 marine corps = a, b, c, d, e
 army = c, d, e, f, g
